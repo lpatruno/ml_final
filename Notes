@@ -1,0 +1,17 @@
+Helpful github repos
+   * https://github.com/amueller?tab=repositories
+   * https://github.com/amueller/sklearn_workshop
+   * https://github.com/amueller/scikit-learn-interactive-tutorial
+   
+   
+Models, features, training time (seconds), test accuracy, train accuracy
+   * Logistic Regression, [age], .07, .7424, .7483
+   * Support Vector Machine (linear), [age], 72, .7565, .7601
+   * Logistic Regression, [age, education], .11, .7432, .7470
+   * Support Vector Machine (linear), [age, education], 128, .7565, .7601 
+   
+   
+Next steps:
+    - try more features
+        - Run feature selection process
+    - cross validation
