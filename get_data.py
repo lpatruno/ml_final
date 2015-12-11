@@ -18,6 +18,9 @@ def data():
     df.loc[ df['label'] == '<=50K', 'class'] = 0
     df.loc[ df['label'] == '>50K', 'class'] = 1
     
+    # Drop the previous class label
+    df.drop('label', axis=1, inplace=True)
+    
     return df
 
 if __name__ == '__main__':
