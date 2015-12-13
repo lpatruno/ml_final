@@ -1,0 +1,19 @@
+Train size: 0.5 Test error: 0.169103194103 Ignore features with missing values: True
+
+Train size: 0.5 Test error: 0.161670761671 Ignore features with missing values: False
+
+Train size: 0.6 Test error: 0.169750479846 Ignore features with missing values: True
+
+Train size: 0.6 Test error: 0.161996161228 Ignore features with missing values: False
+
+Train size: 0.7 Test error: 0.168799262975 Ignore features with missing values: True
+
+Train size: 0.7 Test error: 0.15979117617 Ignore features with missing values: False
+
+Train size: 0.8 Test error: 0.165515123599 Ignore features with missing values: True
+
+Train size: 0.8 Test error: 0.155688622754 Ignore features with missing values: False
+
+Train size: 0.9 Test error: 0.165182683451 Ignore features with missing values: True
+
+Train size: 0.9 Test error: 0.151673319005 Ignore features with missing values: False

@@ -1,0 +1,69 @@
+This directory contains the polished code that I wrote in order to complete my
+final project for Machine Learning (CISC5800). Each Python script contains header
+documentation describing that file. Here I provide a brief description of each of these files.
+My final paper is contained in file Patruno_Final_Paper.pdf.
+
+
+Helper scripts
+----------------
+The following files contain the classes and functions I've written to implement models
+and feature selection.
+
+
+get_data.py
+	This script contains a function for reading in the adult data set and converting the class
+	labels to 0, 1.
+
+featureselection.py
+	This script contains the class I implemented to perform feature reduction. The class
+	performs feature reduction by learning model parameters on training set, fine tuning
+	model hyperparameters on a validation test, and finding the best set of n features
+	on a final test set. Here, the data split was .8, .1, .1 for the training, validation
+	and test sets, respectively.
+	
+naivebayes.py
+	This script contains my implementation of a multi-dimensional Naive Bayes classifier.
+	For continuous features the model learns the population mean and variance from a set
+	of training data. For categorical variables, the class learns the fraction of the
+	data set that contains a particular feature value. Further, I give the ability to ignore
+	features that contain missing values.
+	
+logisticregression.py
+	This script contains my implementation of L1 and L2 regularized Logistic Regression. My
+	initial intention was to use this implementation for my analysis. However, I was unhappy 
+	with the performance of the class compared to the sklearn.linear_model.logisticregression
+	class from the scikit-learn module. Hence, I decided to write up a naive bayes implementation
+	and then use the Logistic Regression object from scikit-learn. However, I've included my work
+	here, for completeness.
+
+
+Analysis
+----------------	
+The following files contain the drivers that perform the actual model creation
+and validation.
+
+
+run_logistic_l1.py
+	Run the scikit-learn Logistic Regression (L1) analysis.
+	
+run_logistic_l2_feature_selection.py
+	Run my feature reduction routine using scikit-learn's Logistic Regression (L2).
+	
+run_logistic_regression_implementation.py
+	Test run my Logistic Regression (L1 & L2) implementation.
+	
+run_naivebayes.py
+	Run my Naive Bayes model analysis.
+	
+run_svm.py
+	Run the scikit-learn SVM analysis.
+
+
+Results
+----------------	
+The following files contain the results of each of the above models:
+
+	- results_logistic_l1.txt
+	- results_logistic_l2.txt
+	- results_naivebayes.txt
+	- results_svm.txt

@@ -1,0 +1,46 @@
+Test error: 0.200982650084 Time to train: 2076.08828998
+Params: {'kernel': 'linear', 'C': 0.1}
+
+Test error: 0.201443267312 Time to train: 2422.19032478
+Params: {'kernel': 'linear', 'C': 1}
+
+
+
+Test error: 0.241209887916 Time to train: 198.407383204
+Params: {'kernel': 'rbf', 'C': 0.1}
+
+Test error: 0.241209887916 Time to train: 229.189439058
+Params: {'kernel': 'rbf', 'C': 0.2}
+
+Test error: 0.241209887916 Time to train: 231.348419905
+Params: {'kernel': 'rbf', 'C': 0.30000000000000004}
+
+Test error: 0.240595731614 Time to train: 337.798237085
+Params: {'kernel': 'rbf', 'C': 0.4}
+
+Test error: 0.240288653462 Time to train: 260.568063021
+Params: {'kernel': 'rbf', 'C': 0.5}
+
+Test error: 0.23967449716 Time to train: 213.04496789
+Params: {'kernel': 'rbf', 'C': 0.6}
+
+Test error: 0.239367419008 Time to train: 215.627848864
+Params: {'kernel': 'rbf', 'C': 0.7000000000000001}
+
+Test error: 0.240595731614 Time to train: 217.814664125
+Params: {'kernel': 'rbf', 'C': 0.8}
+
+Test error: 0.244127130355 Time to train: 218.145750999
+Params: {'kernel': 'rbf', 'C': 0.9}
+
+Test error: 0.246737294641 Time to train: 245.705627918
+Params: {'kernel': 'rbf', 'C': 1}
+
+Test error: 0.256870873637 Time to train: 306.675590038
+Params: {'kernel': 'rbf', 'C': 10}
+
+Test error: 0.257638569016 Time to train: 303.641685009
+Params: {'kernel': 'rbf', 'C': 100}
+
+Test error: 0.257638569016 Time to train: 326.941473961
+Params: {'kernel': 'rbf', 'C': 1000}

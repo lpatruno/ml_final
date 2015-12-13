@@ -1,0 +1,342 @@
+
+Test error: 0.143251957623 Time to train: 1.07725405693
+Params: {'penalty': 'l1', 'C': 0.1}
+
+Test error: 0.142023645018 Time to train: 0.220546960831
+Params: {'penalty': 'l1', 'C': 0.2}
+
+Test error: 0.141563027791 Time to train: 0.845818042755
+Params: {'penalty': 'l1', 'C': 0.30000000000000004}
+
+Test error: 0.141255949639 Time to train: 1.22199296951
+Params: {'penalty': 'l1', 'C': 0.4}
+
+Test error: 0.141409488715 Time to train: 0.0913882255554
+Params: {'penalty': 'l1', 'C': 0.5}
+
+Test error: 0.141255949639 Time to train: 0.28953909874
+Params: {'penalty': 'l1', 'C': 0.6}
+
+Test error: 0.141409488715 Time to train: 0.110091924667
+Params: {'penalty': 'l1', 'C': 0.7000000000000001}
+
+Test error: 0.140795332412 Time to train: 0.26168012619
+Params: {'penalty': 'l1', 'C': 0.8}
+
+Test error: 0.140948871488 Time to train: 0.563941001892
+Params: {'penalty': 'l1', 'C': 0.9}
+
+Test error: 0.141102410563 Time to train: 0.494791984558
+Params: {'penalty': 'l1', 'C': 1.0}
+
+Test error: 0.140795332412 Time to train: 0.121006965637
+Params: {'penalty': 'l1', 'C': 1.1}
+
+Test error: 0.140641793336 Time to train: 0.158244848251
+Params: {'penalty': 'l1', 'C': 1.2000000000000002}
+
+Test error: 0.140948871488 Time to train: 0.181860923767
+Params: {'penalty': 'l1', 'C': 1.3000000000000003}
+
+Test error: 0.140641793336 Time to train: 0.192507982254
+Params: {'penalty': 'l1', 'C': 1.4000000000000001}
+
+Test error: 0.140795332412 Time to train: 0.135120153427
+Params: {'penalty': 'l1', 'C': 1.5000000000000002}
+
+Test error: 0.140948871488 Time to train: 0.250239849091
+Params: {'penalty': 'l1', 'C': 1.6}
+
+Test error: 0.140948871488 Time to train: 0.165244102478
+Params: {'penalty': 'l1', 'C': 1.7000000000000002}
+
+Test error: 0.141102410563 Time to train: 0.169779062271
+Params: {'penalty': 'l1', 'C': 1.8000000000000003}
+
+Test error: 0.141409488715 Time to train: 0.200184106827
+Params: {'penalty': 'l1', 'C': 1.9000000000000001}
+
+Test error: 0.141716566866 Time to train: 1.16347813606
+Params: {'penalty': 'l1', 'C': 2.0}
+
+Test error: 0.141102410563 Time to train: 0.212064027786
+Params: {'penalty': 'l1', 'C': 2.1}
+
+Test error: 0.141255949639 Time to train: 0.174832105637
+Params: {'penalty': 'l1', 'C': 2.2}
+
+Test error: 0.141102410563 Time to train: 0.140766859055
+Params: {'penalty': 'l1', 'C': 2.3000000000000003}
+
+Test error: 0.142330723169 Time to train: 0.0722930431366
+Params: {'penalty': 'l1', 'C': 2.4000000000000004}
+
+Test error: 0.141563027791 Time to train: 0.198260784149
+Params: {'penalty': 'l1', 'C': 2.5000000000000004}
+
+Test error: 0.141716566866 Time to train: 0.238672971725
+Params: {'penalty': 'l1', 'C': 2.6}
+
+Test error: 0.142177184093 Time to train: 0.0960659980774
+Params: {'penalty': 'l1', 'C': 2.7}
+
+Test error: 0.142330723169 Time to train: 0.192775011063
+Params: {'penalty': 'l1', 'C': 2.8000000000000003}
+
+Test error: 0.142023645018 Time to train: 0.229792118073
+Params: {'penalty': 'l1', 'C': 2.9000000000000004}
+
+Test error: 0.142177184093 Time to train: 0.48659491539
+Params: {'penalty': 'l1', 'C': 3.0000000000000004}
+
+Test error: 0.141716566866 Time to train: 0.158151865005
+Params: {'penalty': 'l1', 'C': 3.1}
+
+Test error: 0.142177184093 Time to train: 0.360556125641
+Params: {'penalty': 'l1', 'C': 3.2}
+
+Test error: 0.142330723169 Time to train: 0.236690044403
+Params: {'penalty': 'l1', 'C': 3.3000000000000003}
+
+Test error: 0.141870105942 Time to train: 0.13943195343
+Params: {'penalty': 'l1', 'C': 3.4000000000000004}
+
+Test error: 0.141563027791 Time to train: 0.150269985199
+Params: {'penalty': 'l1', 'C': 3.5000000000000004}
+
+Test error: 0.142330723169 Time to train: 0.388791799545
+Params: {'penalty': 'l1', 'C': 3.6}
+
+Test error: 0.142791340396 Time to train: 0.0701019763947
+Params: {'penalty': 'l1', 'C': 3.7}
+
+Test error: 0.141716566866 Time to train: 0.171298027039
+Params: {'penalty': 'l1', 'C': 3.8000000000000003}
+
+Test error: 0.141716566866 Time to train: 0.129874944687
+Params: {'penalty': 'l1', 'C': 3.9000000000000004}
+
+Test error: 0.142177184093 Time to train: 0.195072174072
+Params: {'penalty': 'l1', 'C': 4.0}
+
+Test error: 0.141102410563 Time to train: 0.105234146118
+Params: {'penalty': 'l1', 'C': 4.1}
+
+Test error: 0.142484262245 Time to train: 0.143448114395
+Params: {'penalty': 'l1', 'C': 4.2}
+
+Test error: 0.142177184093 Time to train: 0.194906234741
+Params: {'penalty': 'l1', 'C': 4.3}
+
+Test error: 0.141716566866 Time to train: 0.125055074692
+Params: {'penalty': 'l1', 'C': 4.3999999999999995}
+
+Test error: 0.142023645018 Time to train: 0.188244104385
+Params: {'penalty': 'l1', 'C': 4.5}
+
+Test error: 0.141255949639 Time to train: 0.108108997345
+Params: {'penalty': 'l1', 'C': 4.6}
+
+Test error: 0.142330723169 Time to train: 0.198160886765
+Params: {'penalty': 'l1', 'C': 4.7}
+
+Test error: 0.142023645018 Time to train: 0.189001083374
+Params: {'penalty': 'l1', 'C': 4.8}
+
+Test error: 0.142484262245 Time to train: 0.168819904327
+Params: {'penalty': 'l1', 'C': 4.9}
+
+Test error: 0.142330723169 Time to train: 0.358514070511
+Params: {'penalty': 'l1', 'C': 5.0}
+
+Test error: 0.141870105942 Time to train: 0.176060914993
+Params: {'penalty': 'l1', 'C': 5.1}
+
+Test error: 0.142023645018 Time to train: 0.152885198593
+Params: {'penalty': 'l1', 'C': 5.2}
+
+Test error: 0.141716566866 Time to train: 0.145603895187
+Params: {'penalty': 'l1', 'C': 5.3}
+
+Test error: 0.141716566866 Time to train: 0.148026943207
+Params: {'penalty': 'l1', 'C': 5.4}
+
+Test error: 0.142177184093 Time to train: 0.203961133957
+Params: {'penalty': 'l1', 'C': 5.5}
+
+Test error: 0.141255949639 Time to train: 0.13550901413
+Params: {'penalty': 'l1', 'C': 5.6}
+
+Test error: 0.141563027791 Time to train: 0.124233961105
+Params: {'penalty': 'l1', 'C': 5.7}
+
+Test error: 0.142330723169 Time to train: 0.199711084366
+Params: {'penalty': 'l1', 'C': 5.8}
+
+Test error: 0.141563027791 Time to train: 0.113433122635
+Params: {'penalty': 'l1', 'C': 5.9}
+
+Test error: 0.142023645018 Time to train: 0.179204940796
+Params: {'penalty': 'l1', 'C': 6.0}
+
+Test error: 0.142330723169 Time to train: 0.145128965378
+Params: {'penalty': 'l1', 'C': 6.1}
+
+Test error: 0.142023645018 Time to train: 0.162895917892
+Params: {'penalty': 'l1', 'C': 6.2}
+
+Test error: 0.14263780132 Time to train: 0.185805082321
+Params: {'penalty': 'l1', 'C': 6.3}
+
+Test error: 0.141563027791 Time to train: 0.142838954926
+Params: {'penalty': 'l1', 'C': 6.4}
+
+Test error: 0.141255949639 Time to train: 0.081218957901
+Params: {'penalty': 'l1', 'C': 6.5}
+
+Test error: 0.141870105942 Time to train: 0.147118091583
+Params: {'penalty': 'l1', 'C': 6.6}
+
+Test error: 0.142330723169 Time to train: 0.213271856308
+Params: {'penalty': 'l1', 'C': 6.7}
+
+Test error: 0.141870105942 Time to train: 0.136928081512
+Params: {'penalty': 'l1', 'C': 6.8}
+
+Test error: 0.142023645018 Time to train: 0.188803195953
+Params: {'penalty': 'l1', 'C': 6.9}
+
+Test error: 0.141409488715 Time to train: 0.129894018173
+Params: {'penalty': 'l1', 'C': 7.0}
+
+Test error: 0.142023645018 Time to train: 0.209388971329
+Params: {'penalty': 'l1', 'C': 7.1}
+
+Test error: 0.141716566866 Time to train: 0.0733909606934
+Params: {'penalty': 'l1', 'C': 7.2}
+
+Test error: 0.142023645018 Time to train: 0.240087985992
+Params: {'penalty': 'l1', 'C': 7.3}
+
+Test error: 0.142023645018 Time to train: 0.35794210434
+Params: {'penalty': 'l1', 'C': 7.4}
+
+Test error: 0.141716566866 Time to train: 0.170295953751
+Params: {'penalty': 'l1', 'C': 7.5}
+
+Test error: 0.141563027791 Time to train: 0.104592084885
+Params: {'penalty': 'l1', 'C': 7.6}
+
+Test error: 0.141102410563 Time to train: 0.107888936996
+Params: {'penalty': 'l1', 'C': 7.7}
+
+Test error: 0.141870105942 Time to train: 0.171139001846
+Params: {'penalty': 'l1', 'C': 7.8}
+
+Test error: 0.142177184093 Time to train: 0.25642991066
+Params: {'penalty': 'l1', 'C': 7.9}
+
+Test error: 0.141409488715 Time to train: 0.146223068237
+Params: {'penalty': 'l1', 'C': 8.0}
+
+Test error: 0.142023645018 Time to train: 0.194597959518
+Params: {'penalty': 'l1', 'C': 8.1}
+
+Test error: 0.141563027791 Time to train: 0.102382183075
+Params: {'penalty': 'l1', 'C': 8.2}
+
+Test error: 0.141409488715 Time to train: 0.0924499034882
+Params: {'penalty': 'l1', 'C': 8.3}
+
+Test error: 0.142023645018 Time to train: 0.191322803497
+Params: {'penalty': 'l1', 'C': 8.4}
+
+Test error: 0.141102410563 Time to train: 0.108943939209
+Params: {'penalty': 'l1', 'C': 8.5}
+
+Test error: 0.142177184093 Time to train: 0.201231002808
+Params: {'penalty': 'l1', 'C': 8.6}
+
+Test error: 0.141870105942 Time to train: 0.181968212128
+Params: {'penalty': 'l1', 'C': 8.7}
+
+Test error: 0.142177184093 Time to train: 0.258078098297
+Params: {'penalty': 'l1', 'C': 8.8}
+
+Test error: 0.142177184093 Time to train: 0.184278011322
+Params: {'penalty': 'l1', 'C': 8.9}
+
+Test error: 0.141409488715 Time to train: 0.137074947357
+Params: {'penalty': 'l1', 'C': 9.0}
+
+Test error: 0.141563027791 Time to train: 0.158978939056
+Params: {'penalty': 'l1', 'C': 9.1}
+
+Test error: 0.141870105942 Time to train: 0.16051697731
+Params: {'penalty': 'l1', 'C': 9.2}
+
+Test error: 0.142177184093 Time to train: 0.157567024231
+Params: {'penalty': 'l1', 'C': 9.3}
+
+Test error: 0.141870105942 Time to train: 0.0733680725098
+Params: {'penalty': 'l1', 'C': 9.4}
+
+Test error: 0.141102410563 Time to train: 0.142977952957
+Params: {'penalty': 'l1', 'C': 9.5}
+
+Test error: 0.142330723169 Time to train: 1.03080797195
+Params: {'penalty': 'l1', 'C': 9.6}
+
+Test error: 0.141716566866 Time to train: 0.082240819931
+Params: {'penalty': 'l1', 'C': 9.700000000000001}
+
+Test error: 0.141563027791 Time to train: 0.168064117432
+Params: {'penalty': 'l1', 'C': 9.8}
+
+Test error: 0.140948871488 Time to train: 0.137513875961
+Params: {'penalty': 'l1', 'C': 9.9}
+
+Test error: 0.141102410563 Time to train: 0.0993020534515
+Params: {'penalty': 'l1', 'C': 10.0}
+
+Test error: 0.142484262245 Time to train: 0.242208003998
+Params: {'penalty': 'l1', 'C': 20.0}
+
+Test error: 0.142484262245 Time to train: 0.178435087204
+Params: {'penalty': 'l1', 'C': 40.0}
+
+Test error: 0.142330723169 Time to train: 0.177757024765
+Params: {'penalty': 'l1', 'C': 60.0}
+
+Test error: 0.14263780132 Time to train: 0.19969201088
+Params: {'penalty': 'l1', 'C': 80.0}
+
+Test error: 0.142484262245 Time to train: 0.190137147903
+Params: {'penalty': 'l1', 'C': 100.0}
+
+Test error: 0.141563027791 Time to train: 0.0960619449615
+Params: {'penalty': 'l1', 'C': 200.0}
+
+Test error: 0.141716566866 Time to train: 0.136920928955
+Params: {'penalty': 'l1', 'C': 300.0}
+
+Test error: 0.141716566866 Time to train: 0.0883460044861
+Params: {'penalty': 'l1', 'C': 400.0}
+
+Test error: 0.141716566866 Time to train: 0.137055158615
+Params: {'penalty': 'l1', 'C': 500.0}
+
+Test error: 0.142944879472 Time to train: 0.185439109802
+Params: {'penalty': 'l1', 'C': 600.0}
+
+Test error: 0.142944879472 Time to train: 0.161524057388
+Params: {'penalty': 'l1', 'C': 700.0}
+
+Test error: 0.142791340396 Time to train: 0.152786970139
+Params: {'penalty': 'l1', 'C': 800.0}
+
+Test error: 0.142944879472 Time to train: 0.196112155914
+Params: {'penalty': 'l1', 'C': 900.0}
+
+Test error: 0.142944879472 Time to train: 0.170968055725
+Params: {'penalty': 'l1', 'C': 1000.0}
